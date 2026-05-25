@@ -1,4 +1,4 @@
-markdown_content = """# Tokokita 🛒
+ Tokokita 🛒
 
 Tokokita adalah aplikasi mobile berbasis Flutter untuk manajemen data produk pada toko. Aplikasi ini dibangun dengan mengimplementasikan arsitektur **BLoC (Business Logic Component)** untuk state management dan terintegrasi dengan RESTful API backend.
 
