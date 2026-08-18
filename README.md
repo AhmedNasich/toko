@@ -1,4 +1,4 @@
-# 🛒 Tokokita - Flutter Application
+# 🛒 Tokokita - Flutter Application 
 
 Tokokita adalah aplikasi mobile berbasis **Flutter** yang dirancang untuk manajemen data produk pada sebuah toko. Aplikasi ini mengimplementasikan arsitektur **BLoC (Business Logic Component)** sebagai state management dan terintegrasi dengan backend layanan RESTful API untuk memproses data secara real-time.
 
